@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8683-67F6
+
+ Directory of C:\Users\Soumyadip\Desktop\Sample project
+
+04-11-2023  17:51    <DIR>          .
+04-11-2023  17:51    <DIR>          ..
+04-11-2023  17:51                 0 Sampletext.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   2,673,954,816 bytes free
